@@ -1,0 +1,14 @@
+rechten onderzoek.txt
+
+show view = wat jij en de gebruiker kan zien op het openbaar
+
+trigger = dat je rageert op bepaalde taken
+
+create = dat je een nieuwe bestand maakt
+
+lock tables = dat je de tabellen vast maakt zodat je ze niet meer kan veranderen   
+
+
+create = heb je nodig als je een nieuwe tabel of informatie wilt maken en als hacker kan hij al jouw belangerijke gemaakte informatie openbaar maken
+
+lock tables = heb je nodig als je al je tabellen heb gemaakt en niks wil veranderen en als hacker kan je de lock tables unlocken en erin kijken en dingen aanpassen
