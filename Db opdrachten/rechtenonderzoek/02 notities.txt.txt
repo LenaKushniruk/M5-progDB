@@ -1,0 +1,22 @@
+
+zoek het adres van een bedrijf uit nederland op
+KPN amsterdam
+Europaboulevard 1 A, 1079 PC Amsterdam
+
+schrijf op uit welke variabelen dat adres bestaat (denk bv aan straat/nummer etc)
+1, 1079, europaboulevard
+
+denk nu aan het type van de waarde! schrijf dat op welke
+1079 = not null
+1A = not null
+europaboulevard = not null
+1079 PC = not null
+plek = not null
+
+
+de keys geven aan wat de waarde is van de gegeven
+PK= bevat meer dan 1kollom
+not null=mag niet leeg zijn
+unsigned = mag hoger zijn dan 0
+unique = mag 1 keervorkomen
+
